@@ -96,3 +96,7 @@ El sistema muestra los establecimientos cercanos con la siguiente información:
 ---
 
 _Proyecto desarrollado en el Instituto Tecnológico Superior de Huetamo._
+
+## Respaldo
+
+Este repositorio es un _respaldo_ del proyecto original [ProyectoSalud-](https://github.com/JJovaNM/ProyectoSalud-), creado como parte de la práctica **4.2 Respaldo GitHub**.
